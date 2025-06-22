@@ -28,9 +28,9 @@
     "updateUrl": ""
   },
   "updateUrl": "https://github.com/cuylerstuwe/cuylercarthing/releases/latest/download/cuylercarthing-v0.11.2.zip",
-  "hash": "0fad851efec046a9287248cb958a0d639590ac9a20abe727462e749ea300710269b7a2b992b7e5acba58660b4c19f224a180d4be69fc830f922ec29fe2602ef8",
+  "hash": "d0979f8c2815ff382495413d882e9f4a8e305432507713597cb22767a29aeed9eb3946ae60e15ec945d8979c63f634f6fc2ff1f5498c29b6401c64d7572b9f98",
   "hashAlgorithm": "sha512",
-  "updatedAt": 1750627909271,
-  "createdAt": 1750627909271,
+  "updatedAt": 1750628073039,
+  "createdAt": 1750628073039,
   "downloads": 0
 }
