@@ -1,35 +1,36 @@
 {
   "meta_version": "0.11.8",
   "meta_type": "app",
+  "repository": "https://github.com/cuylerstuwe/cuylercarthing",
   "icon": "",
-  "size": 153453,
+  "size": 153456,
   "appManifest": {
-    "label": "cuylercarthing",
-    "tags": [
-      "webappOnly"
-    ],
+    "id": "cuylercarthing",
     "requires": [],
+    "label": "cuylercarthing",
     "version": "0.11.2",
-    "requiredVersions": {
-      "server": ">=0.0.0",
-      "client": ">=0.11.2"
-    },
     "description": "None",
     "author": "Unknown",
     "platforms": [
       "windows",
       "macarm"
     ],
-    "repository": "",
-    "homepage": "",
-    "updateUrl": "",
-    "id": "cuylercarthing",
-    "template": "full"
+    "homepage": "https://github.com/cuylerstuwe/cuylercarthing",
+    "repository": "https://github.com/cuylerstuwe/cuylercarthing",
+    "template": "full",
+    "tags": [
+      "webappOnly"
+    ],
+    "requiredVersions": {
+      "server": ">=0.11.8",
+      "client": ">=0.11.2"
+    },
+    "updateUrl": ""
   },
-  "updateUrl": "",
-  "hash": "3cbb9ad50acf626fd1d92bbf37a3d9154ed6de92d856e776527337d8b335a7757f5a5281dcdd8d477a681fec0a379857df1027d13de3c5ca9456fdf0a56ce346",
+  "updateUrl": "https://github.com/cuylerstuwe/cuylercarthing/releases/latest/download/cuylercarthing-v0.11.2.zip",
+  "hash": "0fad851efec046a9287248cb958a0d639590ac9a20abe727462e749ea300710269b7a2b992b7e5acba58660b4c19f224a180d4be69fc830f922ec29fe2602ef8",
   "hashAlgorithm": "sha512",
-  "updatedAt": 1750626118747,
-  "createdAt": 1750626118747,
+  "updatedAt": 1750627909271,
+  "createdAt": 1750627909271,
   "downloads": 0
 }

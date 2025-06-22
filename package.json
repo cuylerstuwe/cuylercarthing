@@ -14,15 +14,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@deskthing/client": "latest",
-    "@deskthing/server": "latest",
+    "@deskthing/client": "^0.11.1",
+    "@deskthing/server": "^0.11.2",
     "autoprefixer": "^10.4.21",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@deskthing/cli": "latest",
-    "@deskthing/types": "latest",
+    "@deskthing/cli": "^0.11.9",
+    "@deskthing/types": "^0.11.11",
     "@eslint/js": "^9.9.0",
     "@types/node": "^22.10.7",
     "@types/react": "^18.3.3",
@@ -38,6 +38,10 @@
     "tsm": "^2.3.0",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
-    "vite": "^5.4.15"
+    "vite": "^5.4.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cuylerstuwe/cuylercarthing.git"
   }
 }
