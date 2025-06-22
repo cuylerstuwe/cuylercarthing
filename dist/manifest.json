@@ -1,0 +1,23 @@
+{
+  "label": "cuylercarthing",
+  "tags": [
+    "webappOnly"
+  ],
+  "requires": [],
+  "version": "0.11.2",
+  "requiredVersions": {
+    "server": ">=0.0.0",
+    "client": ">=0.11.2"
+  },
+  "description": "None",
+  "author": "Unknown",
+  "platforms": [
+    "windows",
+    "macarm"
+  ],
+  "repository": "",
+  "homepage": "",
+  "updateUrl": "",
+  "id": "cuylercarthing",
+  "template": "full"
+}
